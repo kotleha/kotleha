@@ -58,7 +58,7 @@
 
 ### 📫 Связаться со мной
 
-- Email: kabanov.lexx@gmail.com
-- Telegram: [@твоя_ссылка](https://t.me/ai_content_media)
-- LinkedIn: [Твоя ссылка](https://vk.com/alisher.olegovich)
-- VK: [Твоя ссылка](www.linkedin.com/in/aleksey-kabanov-a1940aa4)
+- [Email:] kabanov.lexx@gmail.com
+- [Telegram:] (https://t.me/ai_content_media)
+- [LinkedIn:](https://vk.com/alisher.olegovich)
+- [VK:](www.linkedin.com/in/aleksey-kabanov-a1940aa4)

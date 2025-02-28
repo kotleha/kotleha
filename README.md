@@ -2,63 +2,69 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Привет! Я Алексей Кабанов</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3A6FDB&center=true&vCenter=true&width=600&lines=Привет!+Я+Алексей+Кабанов;Motion+Designer+|+Prompt+Engineer+|+AI+Enthusiast;Data+Science+|+FastAPI+|+Android+Developer" />
+</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3A6FDB&center=true&vCenter=true&width=600&lines=Hello!+I'm+Alexey+Kabanov;Motion+Designer+|+Prompt+Engineer+|+AI+Enthusiast;Data+Science+|+FastAPI+|+Android+Developer" />
+</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/твоя-ссылка/">
+  <a href="https://www.linkedin.com/in/aleksey-kabanov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk.com/alisher.olegovich">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="https://t.me/твоя-ссылка">
+  <a href="https://t.me/ai_content_media">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=твое_имя_пользователя&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=kotleha&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
 
-### 🚀 Обо мне
+## 🚀 About Me  
 
-- 🎓 Являюсь **Prompt Engineer**, **Motion Designer** и **Data Enthusiast** с более чем 12-летним опытом.
-- 🎬 Специализируюсь на создании моушн-дизайна, видеомонтажа и звукорежиссуры.
-- 📊 Увлекаюсь анализом данных, машинным обучением и работой с OpenAI API.
-- 💻 Опытен в автоматизации процессов с использованием FastAPI и Elasticsearch.
-- 📱 Разрабатываю Android-приложения с использованием Kotlin и современных технологий.
+```yaml
+name: Alexey Kabanov
+role: Prompt Engineer | Motion Designer | AI & Data Enthusiast
+experience: 12+ years
+specialties:
+  - Motion Design 🎬
+  - Video Editing & Sound Engineering 🎼
+  - AI & Data Science 📊
+  - FastAPI & Process Automation ⚙️
+  - Android Development 📱
+clients:
+  - MY.GAMES
+  - Mail.ru
+  - 2GIS
+  - Roscosmos
+  - Mitsubishi
+  - Decathlon
+languages:
+  - Python 🐍
+  - Kotlin 🚀
+  - SQL 🗄️
+  - JavaScript ⚡
+```
 
----
+🛠️ **Tech Stack**
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=kotleha&theme=dark&background=000000" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotleha&layout=compact&theme=vision-friendly-dark" /> </div>
 
-### 🛠️ Мой стек технологий
+🎯 **Projects**
+🚀 Q-A-System-API – Vector search with OpenAI & Elasticsearch
+📊 Data Scraping – Selenium + BeautifulSoup + Flask API
+📱 Android Application – Incident Management with Encryption
+🎬 Motion & Sound – Commercial & Creative Video Projects
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/adobeaftereffects/adobeaftereffects-original.svg" title="After Effects" alt="After Effects" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/adobepremierepro/adobepremierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/adobeillustrator/adobeillustrator-original.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/adobephotoshop/adobephotoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 📈 Статистика GitHub
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=твое_имя_пользователя&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твое_имя_пользователя&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📫 Связаться со мной
-
-- Email: kabanov.lexx@gmail.com
-- [Telegram](https://t.me/ai_content_media)
-- [LinkedIn](https://vk.com/alisher.olegovich)
-- [VK](www.linkedin.com/in/aleksey-kabanov-a1940aa4)
+📫 **Contact Me**
+📩 Email: kabanov.lexx@gmail.com
+📡 Telegram: @ai_content_media
+💼 LinkedIn: [Profile](https://www.linkedin.com/in/aleksey-kabanov/)
+🎭 VK: [Profile](https://vk.com/alisher.olegovich)

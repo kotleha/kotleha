@@ -24,6 +24,12 @@
 
 ---
 
+## 🏆 My Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kotleha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🚀 About Me
 
 ```yaml
@@ -56,6 +62,8 @@ languages:
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotleha&layout=compact&theme=vision-friendly-dark" />
 </div>
+
+---
 
 ## 🎯 Projects
 🚀 **Q-A-System-API** – Advanced vector search using OpenAI & Elasticsearch  

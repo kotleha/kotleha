@@ -10,10 +10,10 @@
   <a href="https://www.linkedin.com/in/aleksey-kabanov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://vk.com/alisher.olegovich">
+  <a href="https://vk.com/artifico">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="https://t.me/ai_content_media">
+  <a href="https://t.me/artifico_ru">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>

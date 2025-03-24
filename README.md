@@ -75,9 +75,9 @@ languages:
 
 ## 📫 Contact Me
 📩 **Email:** [kabanov.lexx@gmail.com](mailto:kabanov.lexx@gmail.com)  
-📡 **Telegram:** [@ai_content_media](https://t.me/ai_content_media)  
+📡 **Telegram:** [@artifico_ru](https://t.me/artifico_ru)  
 💼 **LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kabanov/)  
-🎭 **VK:** [Profile](https://vk.com/alisher.olegovich)  
+🎭 **VK:** [Profile](https://vk.com/artifico)  
 
 ---
 

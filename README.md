@@ -58,7 +58,7 @@ languages:
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kotleha&theme=dark&background=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kotleha&show_icons=true&theme=vision-friendly-dark" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotleha&layout=compact&theme=vision-friendly-dark" />
 </div>

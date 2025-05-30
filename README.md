@@ -66,10 +66,37 @@ languages:
 ---
 
 ## 🎯 Projects
-🚀 **Q-A-System-API** – Advanced vector search using OpenAI & Elasticsearch  
-📊 **Data Scraping** – Automated data extraction with Selenium + BeautifulSoup + Flask API  
-📱 **Android Application** – Incident Management System with robust encryption  
-🎬 **Motion & Sound** – High-quality commercial & creative video projects  
+
+🚀 **Q-A-System-API** – Advanced vector search using OpenAI & Elasticsearch
+📊 **Data Scraping** – Automated data extraction with Selenium + BeautifulSoup + Flask API
+📱 **Android Application** – Incident Management System with robust encryption
+🎬 **Motion & Sound** – High-quality commercial & creative video projects
+
+---
+
+## 🎓 Education & Certifications
+
+* Алтайский государственный университет (психология рекламы, неоконченное высшее)
+* SkillFactory Data Scientist Pro (МГУ)
+* ChatGPT for Everyone (2024), SberMarket Tech (2023), Python от SkillFactory (2022)
+
+## 🔮 Generative AI & Tools
+
+* Fine-tuning GPT (создание «цифровой копии»)
+* Stable Diffusion, MidJourney, Runway, D-ID, ElevenLabs, Rive, Rask
+
+## 🛠️ Training & Workshops
+
+* Проведение тренингов по внедрению нейросетевых технологий в рекламные стратегии
+* Преподавательская деятельность (лицей «Медиа Холдинг»)
+
+## 📊 BI & Reporting
+
+* Сводные отчёты в Excel/Google Sheets, макросы и автоматизация рутинных отчётов
+
+## 🤝 Clients & Partners
+
+* MY.GAMES, Mail.ru, 2GIS, Рос­космос, Mitsubishi, Decathlon и другие крупные заказчики
 
 ---
 

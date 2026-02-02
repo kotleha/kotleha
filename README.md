@@ -131,7 +131,7 @@ clients:
 
 ---
 
-### LLM Spec → Structure → Estimate *(private / NDA)*
+### LLM Spec → Structure → Estimate
 
 * **Что:** Автоматизация разбора ТЗ/спецификаций и оценки трудозатрат/бюджета
 * **Как:**

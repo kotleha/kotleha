@@ -189,17 +189,20 @@ clients:
 
 ## 🛠️ Tech Stack и активность
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kotleha&show_icons=true&theme=vision-friendly-dark"
-    alt="GitHub stats card"
-  />
-  <br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotleha&layout=compact&theme=vision-friendly-dark"
-    alt="Top languages card"
-  />
-</div>
+> GitHub stats cards временно отключены: публичный `github-readme-stats` сейчас отдаёт `DEPLOYMENT_PAUSED` (Vercel).
+
+**Backend / APIs:** Python · FastAPI · AsyncIO · SQL · REST  
+**RAG / Search:** BM25 · KNN · rerank · embeddings · eval/QA  
+**Data / Analytics:** pandas · matplotlib · EDA · clustering  
+**Automation:** pipelines · validators · strict JSON schemas · fallback chains  
+**Android:** Kotlin · Jetpack Compose · offline-first · crypto  
+**Video:** Motion Design · Editing · Sound Design · Storyboarding  
+
+**Production mindset:**
+- Quality gates (schemas, validation, regression)
+- Observability (metrics/logs/traces + alerts)
+- Security (PII/DLP masking, RBAC when needed)
+- Reliability (caching, fallbacks, reproducibility)
 
 ---
 

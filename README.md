@@ -267,7 +267,7 @@ clients:
 
 📩 **Email:** [kabanov.lexx@gmail.com](mailto:kabanov.lexx@gmail.com)
 📡 **Telegram:** [@artifico_ru](https://t.me/artifico_ru)
-💼 **LinkedIn:** [Profile]([https://www.linkedin.com/in/kotleha/)
+💼 **LinkedIn:** [Profile](https://www.linkedin.com/in/kotleha/)
 🎭 **VK:** [Profile](https://vk.com/artifico)
 
 ---
